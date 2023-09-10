@@ -112,9 +112,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://thalapathy-2-fol3.onrender.com/".format(FQDN)
+    URL = "https://rs-jipy.onrender.com/".format(FQDN)
 else:
-    URL = "https://thalapathy-2-fol3.onrender.com/".format(FQDN)
+    URL = "https://rs-jipy.onrender.com/".format(FQDN)
 
 
 
