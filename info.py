@@ -61,7 +61,7 @@ CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+DAKP65TG-rpmZWU1')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtodownloadmoviestamilhd/65')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'Hello Nanbha and Nanbis ❤️')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001840433141'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001953206885'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'rionetworksupport')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
@@ -91,13 +91,13 @@ NO_PORT = bool(environ.get('NO_PORT', False))
 APP_NAME = None
 if 'DYNO' in environ:
     ON_HEROKU = True
-    APP_NAME = environ.get('APP_NAME')
+    APP_NAME = environ.get('APP_NAME', 'shortnfly')
 else:
     ON_HEROKU = False
 BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
 FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'.herokuapp.com'
-URL = "https://thalapathy-2-fol3.onrender.com".format(FQDN) if ON_HEROKU or NO_PORT else \
-    "https://thalapathy-2-fol3.onrender.com/".format(FQDN, PORT)
+URL = "https://shortnfly-109ae7c93294.herokuapp.com/".format(FQDN) if ON_HEROKU or NO_PORT else \
+    "https://shortnfly-109ae7c93294.herokuapp.com/".format(FQDN, PORT)
 SLEEP_THRESHOLD = int(environ.get('SLEEP_THRESHOLD', '60'))
 WORKERS = int(environ.get('WORKERS', '4'))
 SESSION_NAME = str(environ.get('SESSION_NAME', 'LazyBot'))
@@ -112,9 +112,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://rs-jipy.onrender.com/".format(FQDN)
+    URL = "https://shortnfly-109ae7c93294.herokuapp.com/".format(FQDN)
 else:
-    URL = "https://rs-jipy.onrender.com/".format(FQDN)
+    URL = "https://shortnfly-109ae7c93294.herokuapp.com/".format(FQDN)
 
 
 
