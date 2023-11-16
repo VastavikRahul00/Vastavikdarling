@@ -432,7 +432,7 @@ BOT WORKING PROPERLY"""
 
  எப்படி மற்றும் என்ன செய்ய வேண்டும்
 
- படி 1: இந்த ʀᴀᴊʙʜᴀʀᴛɢ_ʙᴏᴛ ᴏʀ ʀᴀᴊʙʜᴀʀᴍᴠ_ʙᴏᴛ போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
+ படி 1: இந்த Movie filter bot போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
@@ -459,7 +459,7 @@ Hey <a href='tg://settings'>My Friend</a>
 
  How and what to do
 
- Step 1: Administer this ʀᴀᴊʙʜᴀʀᴛɢ_ʙᴏᴛ ᴏʀ ʀᴀᴊʙʜᴀʀᴍᴠ_ʙᴏᴛ bot to your group
+ Step 1: Administer this Movie filter bot bot to your group
 
  Step 2: Add your website and API
 
@@ -487,7 +487,7 @@ Also your tutorial will be Added Your Group..."""
 
  कैसे और क्या करना है
 
- चरण 1: इस ʀᴀᴊʙʜᴀʀᴛɢ_ʙᴏᴛ ᴏʀ ʀᴀᴊʙʜᴀʀᴍᴠ_ʙᴏᴛ को अपने समूह में प्रशासित करें
+ चरण 1: इस Movie filter bot को अपने समूह में प्रशासित करें
 
  चरण 2: अपनी वेबसाइट और एपीआई जोड़ें
 
@@ -515,7 +515,7 @@ Also your tutorial will be Added Your Group..."""
 
  کیسے اور کیا کرنا ہے۔
 
- مرحلہ 1: اپنے گروپ میں اس ʀᴀᴊʙʜᴀʀᴛɢ_ʙᴏᴛ ᴏʀ ʀᴀᴊʙʜᴀʀᴍᴠ_ʙᴏᴛ بوٹ کا انتظام کریں۔
+ مرحلہ 1: اپنے گروپ میں اس Movie filter bot بوٹ کا انتظام کریں۔
 
  مرحلہ 2: اپنی ویب سائٹ اور API شامل کریں۔
 
@@ -542,7 +542,7 @@ Also your tutorial will be Added Your Group..."""
 
  કેવી રીતે અને શું કરવું
 
- પગલું 1: તમારા જૂથમાં આ ʀᴀᴊʙʜᴀʀᴛɢ_ʙᴏᴛ ᴏʀ ʀᴀᴊʙʜᴀʀᴍᴠ_ʙᴏᴛ બોટનું સંચાલન કરો
+ પગલું 1: તમારા જૂથમાં આ Movie filter bot બોટનું સંચાલન કરો
 
  પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો
 
@@ -569,7 +569,7 @@ Also your tutorial will be Added Your Group..."""
 
  কিভাবে এবং কি করতে হবে
 
- ধাপ 1: আপনার গ্রুপে এই ʀᴀᴊʙʜᴀʀᴛɢ_ʙᴏᴛ ᴏʀ ʀᴀᴊʙʜᴀʀᴍᴠ_ʙᴏᴛ বট পরিচালনা করুন
+ ধাপ 1: আপনার গ্রুপে এই Movie filter bot বট পরিচালনা করুন
 
  ধাপ 2: আপনার ওয়েবসাইট এবং API যোগ করুন
 
@@ -587,7 +587,7 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/rajbharsaheb'>ʀᴀᴊʙʜᴀʀ ꜱᴀʜᴇʙ</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/Vastavikrahul'>Vastavik Rahul</a>
 
 -Dev 2 <a href='https://t.me/Kgashok04'>ASHOK</a>
 
