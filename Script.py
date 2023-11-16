@@ -4,7 +4,7 @@ class script(object):
 ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ
 ɪ ᴀᴍ ᴘᴍ sʜᴏʀᴛɴᴇʀ-ʟɪɴᴋ ʙᴏᴛ
 
-ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/rajbharsaheb">ʀᴀᴊʙʜᴀʀ ꜱᴀʜᴇʙ</a></b> 😏</b>"""
+ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Vastavikrahul">Vastavik Rahul</a></b> 😏</b>"""
 
     ABOUT_TXT = """<b>
  🤖 ᴍʏ ɴᴀᴍᴇ : {}
@@ -67,9 +67,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/rajbharsaheb>ʀᴀᴊʙʜᴀʀ ꜱᴀʜᴇʙ</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/Vastavikrahul>Vastavik Rahul</a></b>
   
- <b>✯ Join here : <a href=https://t.me/movies_island8>ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ</a></b> 
+ <b>✯ Join here : <a href=https://t.me/Vastavik_bott>ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -194,11 +194,11 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 <b>
 ╭─────── • ◆ • ───────╮
-       ʀᴀᴊʙʜᴀʀ ꜱᴀʜᴇʙ   
+          Vastavik Rahul 
 ╰─────── • ◆ • ───────╯
 ╭─────── • ◆ • ───────╮
-       ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ
-   @Searchmoviesname
+          ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ
+         @moviieehubb 
 ╰─────── • ◆ • ───────╯</b>""" 
 
     IMDB_TEMPLATE_TXT = """
@@ -340,7 +340,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
  ◉ /purge :- ᴅᴇʟᴇᴛᴇ ᴀʟʟ ᴍᴇssᴀɢᴇs ꜰʀᴏᴍ ᴛʜᴇ ʀᴇᴘʟɪᴇᴅ ᴛᴏ ᴍᴇssᴀɢᴇ, ᴛᴏ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴍᴇssᴀɢᴇ</b>""" 
   
     WHOIS_TXT = """<b>ᴡʜᴏɪꜱ ᴍᴏᴅᴜʟᴇ 
-  
+
  ɴᴏᴛᴇ:- ɢɪᴠᴇ ᴀ ᴜꜱᴇʀ ᴅᴇᴛᴀɪʟꜱ 
  /whois :- ɢɪᴠᴇ ᴀ ᴜꜱᴇʀ ꜰᴜʟʟ ᴅᴇᴛᴀɪʟꜱ 📑 
  </b>""" 
