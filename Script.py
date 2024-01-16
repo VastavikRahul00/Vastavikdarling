@@ -190,16 +190,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
-<b>
-╭─────── • ◆ • ───────╮
-          Vastavik Rahul 
-╰─────── • ◆ • ───────╯
-╭─────── • ◆ • ───────╮
-            ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ
-            @moviieehubb 
-╰─────── • ◆ • ───────╯</b>""" 
+<b><a href="https://t.me/moviieehubb">{file_name}</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
